@@ -24,7 +24,7 @@
 
 ## 下载即用（Windows）
 
-到 [Releases](https://github.com/<your-name>/chemsheet/releases/latest) 下载 **`chemsheet-portable-win64.zip`**（约 54 MB）：
+到 [Releases](https://github.com/CyMing-MX/ChemSheet_Auto/releases/latest) 下载 **`chemsheet-portable-win64.zip`**（约 54 MB）：
 
 1. 解压到普通目录（例如 `D:\chemsheet`）；
 2. 双击 `start.cmd`；
@@ -42,7 +42,7 @@
 需要 Python **3.10+**：
 
 ```bash
-git clone https://github.com/<your-name>/chemsheet.git
+git clone https://github.com/CyMing-MX/ChemSheet_Auto.git
 cd chemsheet
 pip install -r requirements.txt
 python workflow.py --input tests/sample_input.csv --out result.xlsx
