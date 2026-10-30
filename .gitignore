@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行缓存
+.cache/
+.work/
+
+# 输出文件
+*.xlsx
+!tests/sample_output.xlsx
+*_images/
+result*.xlsx
+*.zip
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
